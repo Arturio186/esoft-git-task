@@ -16,7 +16,7 @@ body {
 .icon {
     width: 40%;
     height: 40%;
-    background-image: url('../images/little_labradorchik.jpg');
+    background-image: url('../images/cool_labrador.png');
     background-size: cover;
 
     transition: transform 0.3s ease;
